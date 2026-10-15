@@ -1,0 +1,6 @@
+numpy
+librosa
+soundfile
+pygame-ce
+PyOpenGL
+PyOpenGL_accelerate
